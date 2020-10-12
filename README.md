@@ -1,7 +1,5 @@
 # Day and Night Mood Animation - Flutter Animation
 
-## [Watch it on YouTube](https://youtu.be/uS_SoJWzRXY)
-
 **Packages we are using:**
 
 - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
